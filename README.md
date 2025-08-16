@@ -124,7 +124,7 @@ Interpretable results
 ## Results & Visualizations
 
 ### Genre Distribution
-![Genre Distribution](genre_distribution.png)
+![Genre Distribution](movies_genre.png)
 
 **Key Insights**:
 - **Drama** is the most common genre (2000+ movies)
@@ -183,7 +183,7 @@ movie-genre-classification/
 │
 ├── movie_genre_classification.ipynb    # Main notebook with complete analysis
 ├── classified_movies_results.csv       # Model predictions output
-├── genre_distribution.png             # Visualization of genre distribution
+├── movies_genre.png                     # Visualization of genre distribution
 ├── README.md                          # Project documentation
 └──Archive
     ├── tmdb_5000_movies.csv                # Movies dataset
