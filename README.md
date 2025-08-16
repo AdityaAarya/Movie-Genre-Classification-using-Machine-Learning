@@ -67,7 +67,7 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 
 4. **Run the notebook**
 ```bash
-jupyter notebook movie_genre_classification.ipynb
+jupyter notebook movies_genre_classification.ipynb
 ```
 
 ## Usage
@@ -181,13 +181,13 @@ Input Text → Preprocessing → TF-IDF Vectorization → One-vs-Rest Classifier
 ```
 movie-genre-classification/
 │
-├── movie_genre_classification.ipynb    # Main notebook with complete analysis
-├── classified_movies_results.csv       # Model predictions output
-├── movies_genre.png                     # Visualization of genre distribution
 ├── README.md                          # Project documentation
-└──Archive
+├── Archive
     ├── tmdb_5000_movies.csv                # Movies dataset
     └── tmdb_5000_credits.csv               # Credits dataset
+├── classified_movies_results.csv       # Model predictions output
+├── movies_genre.png                     # Visualization of genre distribution
+└──movie_genre_classification.ipynb    # Main notebook with complete analysis
 ```
 
 ## Acknowledgments
