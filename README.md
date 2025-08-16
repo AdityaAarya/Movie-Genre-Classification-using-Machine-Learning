@@ -17,6 +17,8 @@ This project implements a **multi-label classification system** to predict movie
 
 **Source**: [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
+It is uploaded in **Archive** .zip file in the repository.
+
 **Dataset Statistics**:
 - **Movies**: 4,803 movies
 - **Features**: 20+ attributes per movie
@@ -183,8 +185,9 @@ movie-genre-classification/
 ├── classified_movies_results.csv       # Model predictions output
 ├── genre_distribution.png             # Visualization of genre distribution
 ├── README.md                          # Project documentation
-├── tmdb_5000_movies.csv                # Movies dataset
-└── tmdb_5000_credits.csv               # Credits dataset
+└──Archive
+    ├── tmdb_5000_movies.csv                # Movies dataset
+    └── tmdb_5000_credits.csv               # Credits dataset
 ```
 
 ## Acknowledgments
