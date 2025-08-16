@@ -51,24 +51,14 @@ It is uploaded in **Archive** .zip file in the repository.
 ### Setup Instructions
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/movie-genre-classification.git
-cd movie-genre-classification
-```
 
 2. **Install required packages**
-```bash
-pip install pandas numpy matplotlib scikit-learn jupyter
-```
 
 3. **Download the dataset**
 - Download `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata) or this repository
 - Place the CSV files in the project root directory
 
 4. **Run the notebook**
-```bash
-jupyter notebook movies_genre_classification.ipynb
-```
 
 ## Usage
 
